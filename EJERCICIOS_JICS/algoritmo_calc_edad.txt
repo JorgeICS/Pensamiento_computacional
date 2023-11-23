@@ -1,0 +1,21 @@
+1 inicio 
+2 declarar variable
+	defininir: 
+		año de nacimiento (int)
+		año actual(int)
+		edad (int)
+		nombre (str)
+3 asignar valores
+		año de nacimiento: 1985
+		año actual: 2023
+		edad:
+		nombre:
+4 escribir (entrada) "ingresa tu nombre"
+5 asignar nombre
+6 escribir (entrada) "Ingresa tu año de nacimiento", nombre
+7 asignar año de nacimiento
+8 operacion 
+	edad = año actual - año de nacimiento
+9 Escribir (salida)
+nombre, "tu edad es ", edad," años"
+10 fin 
